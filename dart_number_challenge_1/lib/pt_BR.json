@@ -1,0 +1,10 @@
+{
+    "welcome_message" : "Esse programa vai receber um número inteiro positivo e retornará o somatório de todos os valores inteiros divisiveis por 3 ou 5 que sejam inferioes ao número inserido.",
+    "insert_number" : "Digite aqui o número que você deseja converter:",
+    "thank_you_message" : "Obrigado pela participação, até a próxima!",
+    "type_again" : "Digite um novo número:",
+    "the_sum" : "A somatória dos valores de todos os números abaixo de",
+    "condition" : "Por favor insira um número inteiro positivo que não seja zero",
+    "wish_to_continue" : "Deseja continuar a utilizar o programa? digite '1' para continuar ou '2' para encerrar",
+    "no_option" : "Opção não existe, por favor digite novamente:"
+}
