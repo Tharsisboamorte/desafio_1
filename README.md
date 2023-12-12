@@ -9,3 +9,5 @@ Instruções para instação:
 3º Sugiro criar uma atalho para área de trabalho para acessar com mais facilidade.
 
 Agora é só testar a funcionalidade do aplicativo.
+
+Obs.: É possível baixar apenas o arquivo .exe da pasta e utilizar apenas ele para testar o aplicativo.
